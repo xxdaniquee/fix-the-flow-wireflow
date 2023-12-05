@@ -2,8 +2,8 @@
 
 ## Inhoudsopgave
 
- * [Beschrijving](#beschrijving)
-  * [Kenmerken](#kenmerken)
+ * [Beschrijving](#Beschrijving)
+  * [Links](#Links)
   * [Licentie](#licentie)
 
 ## Beschrijving
