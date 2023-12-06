@@ -20,7 +20,8 @@ _Als buurtbewoner uit Amsterdam West wil ik een aanmeldformulier, zodat ik op ee
 [Uitleg over de schermen](https://github.com/xxdaniquee/fix-the-flow-wireflow/wiki/2.-Ontwerpen#scherm-1)
 
 ## links
-[Link naar prototype](https://www.figma.com/proto/9WtpMw2zPXViThyCo1yana/Sprint-5-%7C-Fix-the-flow?type=design&node-id=18-2&t=tcfGAZsa88oE1Zuf-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=18%3A2&mode=design)<br>
+[Link naar mobiel prototype](https://www.figma.com/proto/9WtpMw2zPXViThyCo1yana/Sprint-5-%7C-Fix-the-flow?type=design&node-id=18-2&t=tcfGAZsa88oE1Zuf-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=18%3A2&mode=design)<br>
+[link naar web prototype](https://www.figma.com/proto/9IJdfo5zhjnjydVqdJeJ35/Sprint-5-%7C-Fix-the-flow-%7C-Web?page-id=0%3A1&type=design&node-id=1-2&viewport=277%2C468%2C0.13&t=b2v0TiWqw4mWVrSk-1&scaling=scale-down&starting-point-node-id=1%3A2&mode=design) <br>
 [Link naar schetsen](https://github.com/xxdaniquee/fix-the-flow-wireflow/wiki/2.-Ontwerpen)
 
 
